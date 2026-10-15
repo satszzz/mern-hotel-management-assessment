@@ -1,0 +1,16 @@
+{
+  "name": "mern-hotel-management-assessment",
+  "version": "1.0.0",
+  "description": "Hotel and room booking management REST API built with Express.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
